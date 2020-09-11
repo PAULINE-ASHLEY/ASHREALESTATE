@@ -62,8 +62,9 @@
     <hr>
         <div class="row" >
           <div style="background-color:#00001a;height:100px;" class="col-3 col-s-3 menu">
-            <p style="background-color:#00001a;color: white;text-align: center;font-size: 12px;
-            padding: 15px;"> &copy; 2020 All Rights Reserved. Developed & Designed by PAULINE ONDIEK. </p>
+           <a style="text-decoration:none;" href="https://pauline-ashley.github.io/PAULINEASHLEY/"><p style="background-color:black;color: white;text-align: center;font-size: 12px;
+            padding:30px;height:100px;"> &copy; 2020 All Rights Reserved. Developed & Designed by PAULINE ONDIEK. </p></a>
+
           </div>
 
           <div style="background-color:#00001a;height:100px;" class="col-3 col-s-6">
